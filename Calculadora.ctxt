@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculadora\ getInstance()
+comment1.target=Calculadora()
+comment2.params=n1\ n2
+comment2.target=int\ suma(int,\ int)
+comment3.params=n1\ n2
+comment3.target=int\ resta(int,\ int)
+comment4.params=n1\ n2
+comment4.target=int\ multiplicacion(int,\ int)
+comment5.params=n1\ n2
+comment5.target=int\ division(int,\ int)
+comment6.params=n
+comment6.target=boolean\ isNum(String)
+numComments=7
